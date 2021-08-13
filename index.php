@@ -1,0 +1,1 @@
+<?php echo'<script>window.location.replace("./login/admin/index.php");</script>';?>
